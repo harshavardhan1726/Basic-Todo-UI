@@ -9,7 +9,7 @@ function TodoItem2(){
       23/05/2024
     </div>
     <div class="col-2">
-    <button type="button" class="btn btn-danger kg-btn">Danger</button>
+    <button type="button" class="btn btn-danger kg-btn">Delete</button>
     </div>
   </div>
 </div>
